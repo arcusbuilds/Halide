@@ -6,6 +6,8 @@ tests(
     # keep-sorted start case=no
     align_bounds.cpp
     ambiguous_inline_reductions.cpp
+    approximate_by.cpp
+    approximation_components.cpp
     argmax.cpp
     arm_cpu_detect.cpp
     associativity.cpp
