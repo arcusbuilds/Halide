@@ -8,6 +8,7 @@ tests(
     ambiguous_inline_reductions.cpp
     approximate_by.cpp
     approximation_components.cpp
+    approximation_parallel.cpp
     approximation_signatures.cpp
     approximation_testing.cpp
     approximation_trace.cpp
